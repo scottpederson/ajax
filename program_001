@@ -1,0 +1,14 @@
+<html>
+<body>
+<script>
+
+var side1 = parseInt(window.prompt("Enter side one: "));
+var side2 = parseInt(window.prompt("Enter side two: "));
+var side3 = parseInt(window.prompt("Enter side three: "));
+var sum = side1 + side2 + side3;
+
+document.write("The sum is " + sum);
+
+</script>
+</body>
+</html>
